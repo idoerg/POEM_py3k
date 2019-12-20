@@ -7,6 +7,7 @@ This pipeline is available on Linux systems and Windows WSL. Make sure that you 
 
 1.  [Anaconda](https://www.anaconda.com/ "https://www.anaconda.com/") for Python 3.7
 2.  [conda](https://conda.io/en/latest/ "https://conda.io/en/latest/")
+3.  [Cytoscape](https://cytoscape.org/")
 
     make sure to add path of conda to $PATH environment variable
 
